@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_text_size">16sp</dimen>
+    <dimen name="standard_margin">10dp</dimen>
+    <dimen name="info_width">18sp</dimen>
+    <dimen name="info_height">15sp</dimen>
+    <dimen name="info_left_margin">15sp</dimen>
+    <dimen name="continue_button_margins">16dp</dimen>
+    <dimen name="layout_guide">20dp</dimen>
+    <dimen name="banner_text_width">250dp</dimen>
+    <dimen name="banner_title_text">18sp</dimen>
+    <dimen name="banner_desc_text">15sp</dimen>
+    <dimen name="banner_small_margin_top">2sp</dimen>
+    <dimen name="cancel_image_size">20dp</dimen>
+    <dimen name="guest_text_size">18sp</dimen>
+
+</resources>

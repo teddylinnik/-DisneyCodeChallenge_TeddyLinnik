@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DisneyCodeChallenge_TeddyLinnik</string>
+    <string name="reserved_notice">At least one Guest in party must have a reservation. Guests reservations must remain in the same booking party in order to enter.</string>
+    <string name="close_description">Select at least one Guest that has a reservation to continue.</string>
+    <string name="select_guests">Select Guests</string>
+    <string name="these_guests_need_reservations">These Guests Need Reservations</string>
+    <string name="these_guests_have_reservations">These Guests Have Reservations</string>
+    <string name="dsa_self_paced_course">DSA Self Paced Course</string>
+    <string name="info">info</string>
+    <string name="cancel">cancel</string>
+    <string name="continue2">Continue</string>
+</resources>

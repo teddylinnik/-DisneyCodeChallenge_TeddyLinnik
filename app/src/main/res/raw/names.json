@@ -1,0 +1,25 @@
+{
+  "reservedNameList": [
+    "David Walker"
+        ,"John MaCklain","llen Gibson","Frank Gibson","Gideon Gibson","Herbert Gibson","Isabelle Gibson",
+        "Jeremy Gibson","Ken Gibson","Lizbeth Gibson","Marco Gibson","Nicole Gibson","John Diklon",
+        "llen Diklon","Frank Diklon","Gideon Diklon","Herbert Diklon","Isabelle Diklon",
+        "Jeremy Diklon","Ken Diklon","Lizbeth Diklon","Marco Diklon","Nicole Diklon",
+        "llen Koleb","Frank Koleb","Gideon Koleb","Herbert Koleb","Isabelle Koleb",
+        "Jeremy Koleb","Ken Koleb","Lizbeth Koleb","Marco Koleb","Nicole Koleb",
+        "llen Rapp","Frank Rapp","Gideon Rapp","Herbert Rapp","Isabelle Rapp",
+        "Jeremy Rapp","Ken Rapp","Lizbeth Rapp","Marco Rapp","Nicole Rapp",
+        "llen Williams","Frank Williams","Gideon Williams","Herbert Williams","Isabelle Williams",
+        "Jeremy Williams","Ken Williams","Lizbeth Williams","Marco Williams","Nicole Williams",
+        "llen Cohen","Frank Cohen","Gideon Cohen","Herbert Cohen","Isabelle Cohen",
+        "Jeremy Cohen","Ken Cohen","Lizbeth Cohen","Marco Cohen","Nicole Cohen",
+        "llen Washington","Frank Washington","Gideon Washington","Herbert Washington","Isabelle Washington",
+        "Jeremy Washington","Ken Washington","Lizbeth Washington","Marco Washington","Nicole Washington"
+  ],
+  "notReservedNameList": [
+    "Karin Romanov",
+    "Ellis Wrangel",
+    "Tony Harel"
+  ],
+  "success": true
+}
